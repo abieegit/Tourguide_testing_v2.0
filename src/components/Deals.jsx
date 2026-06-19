@@ -110,7 +110,7 @@ const Deals = () => {
               <button
                 onClick={() => setQuery('')}
                 className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-white border border-green-200 text-green-600 hover:bg-green-50 px-3 py-1 rounded-full text-sm shadow-sm"
-                aria-label="Clear search"
+                data-testid="Clear-search"
               >
                 Clear
               </button>

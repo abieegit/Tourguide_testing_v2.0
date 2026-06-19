@@ -119,7 +119,6 @@ const Checkout = () => {
               onChange={handleChange}
               placeholder="John Doe"
               className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 test-card-name-input"
-              required
             />
           </div>
           

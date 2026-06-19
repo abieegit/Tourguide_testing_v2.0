@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.homeimg{
+ background: linear-gradient(rgba(0, 0, 0, 0.7)), url('/public/04.jpg') center/cover no-repeat;
+}
